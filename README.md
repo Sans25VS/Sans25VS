@@ -1,4 +1,4 @@
-![lamp shift](https://github.com/Sans25VS/Sans25VS/assets/131166569/2749ad1a-84e8-463f-adc2-067949d311ad)
+![screen open](https://github.com/Sans25VS/Sans25VS/assets/131166569/aec3d6db-49c6-4f5a-9106-32abe1ad3dee)
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center">A Passionate Frontend Developer from India having basic knowledge of backend too</h3>
 <img align="right" alt="Coding"width="400"  src="https://d3jl769oy69y7b.cloudfront.net/2022/08/lost-in-space-1.gif">
