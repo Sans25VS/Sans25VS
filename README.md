@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India having knowledge of SQL and NOSQL databases too</h3>
 <img align="right" alt="Coding"width="400"  src="https://d3jl769oy69y7b.cloudfront.net/2022/08/lost-in-space-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sans25vs&label=Profile%20views&color=0e75b6&style=flat" alt="sans25vs" /> </p>
-- 🔭 I’m currently working on **Crowd Funding using cryptocurrency TECH -> Blockchain(Web 3)**
+- 🔭 I am currently learning NextJs Framework and using my skills to make a better HUSTLE APP by integrating AI**
 
 - 🌱 I’m currently learning **Three.Js , DSA , and Blockchain(solana)**
 
