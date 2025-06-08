@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 💬 Ask me about **React , Javascript , Nodejs, DSA**
+- 💬 Ask me about **React , Javascript , Nodejs, Java , Spring Boot ,DSA**
 
 - 📫 How to reach me **Sanskargupta37081@gmail.com**
 
