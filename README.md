@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sans25vs&label=Profile%20views&color=0e75b6&style=flat" alt="sans25vs" /> </p>
 - 🔭 I am currently learning NextJs Framework and using my skills to make a better HUSTLE APP by integrating AI**
 
-- 🌱 I’m currently learning **Three.Js , DSA , and Blockchain(solana)**
+- 🌱 I’m currently learning **Spring boot , DSA **
 
 - 👯 I’m looking to collaborate on **Open source**
 
